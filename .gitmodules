@@ -1,0 +1,4 @@
+[submodule "aaa"]
+	path = aaa
+	url = https://github.com/aaaaaaa11111/aaa.git
+	branch = dev
